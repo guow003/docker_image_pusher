@@ -3,3 +3,4 @@ bestwu/wechat
 xhofe/alist
 nginx
 bitnami/kube-state-metrics
+zixia/wechat
