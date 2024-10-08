@@ -7,3 +7,4 @@ zixia/wechat:latest
 registry:latest
 docker:latest
 linuxserver/nginx:latest
+ubuntu:latest
