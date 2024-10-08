@@ -6,3 +6,4 @@ bitnami/kube-state-metrics:latest
 zixia/wechat:latest
 registry:latest
 docker:latest
+linuxserver/nginx:latest
