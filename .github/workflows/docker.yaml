@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
   schedule
-    - cron '00 23 * * *'
+    - cron '45 23 * * *'
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
   ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_NAME_SPACE }}"
