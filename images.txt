@@ -8,3 +8,4 @@ registry:latest
 docker:latest
 linuxserver/nginx:latest
 ubuntu:latest
+linuxserver/calibre:latest
