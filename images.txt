@@ -9,3 +9,4 @@ docker:latest
 linuxserver/nginx:latest
 ubuntu:latest
 linuxserver/calibre:latest
+linuxserver/jellyfin:latest
