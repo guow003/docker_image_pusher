@@ -9,3 +9,4 @@ linuxserver/calibre
 linuxserver/jellyfin
 linuxserver/syncthing
 linuxserver/qbittorrent
+teddysun/kms
